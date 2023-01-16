@@ -1,0 +1,2 @@
+OUTPUT_PATH = 'C:\\Users\\kunal\\OneDrive - Washington State University (email.wsu.edu)\\Desktop\\Data Science\\data\\outputs\\'
+INPUT_PATH = 'C:\\Users\\kunal\\OneDrive - Washington State University (email.wsu.edu)\\Desktop\\Data Science\\data\\inputs\\'
